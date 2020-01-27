@@ -7,7 +7,7 @@
 	<artifactId>testjavamoney</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>check-joda-money</name>
+	<name>check-javamoney</name>
 
 	<properties>
 		<junit.jupiter.version>5.5.1</junit.jupiter.version>
